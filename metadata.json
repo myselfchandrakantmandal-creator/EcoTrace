@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrace",
+  "description": "Real-time industrial gas monitoring and emission tracking system.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
